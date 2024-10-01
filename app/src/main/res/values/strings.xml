@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyProduct</string>
+    <string name="product_name">Product name</string>
+    <string name="simple_description">Simple description</string>
+    <string name="price">Price</string>
+    <string name="fetching_data">Fetching data...</string>
+    <string name="textview">TextView</string>
+    <string name="my_info">Halo, nama saya Sofyan Gio Verdiansyah, biasa dipanggil Verdi. Saya adalah seorang Full Stack web developer dengan pengalaman kurang lebih dari 4 tahun, serta Mobile App developer menggunakan Flutter dengan pengalaman kurang lebih 1 tahun. Saya menguasai bahasa pemrograman seperti JavaScript, PHP, Python, GO, Dart, Kotlin, dan Rust. Selain itu, saya terampil dalam menggunakan framework library seperti Bootstrap, Tailwind, JQuery, Laravel, React.js, dan Flutter. Saya juga memiliki pengalaman menggunakan version control systems seperti Git dan GitHub, serta memiliki pengetahuan dalam melakukan deployment website secara online. Saat ini, saya sedang memperdalam ilmu dalam bidang Data Science dan Machine Learning. Saya memiliki kemampuan berpikir kritis dan logis yang kuat, serta dapat bekerja sama dengan baik dalam tim untuk mencapai target proyek yang telah ditentukan.</string>
+    <string name="my_email">gioverdiansyh@gmail.com</string>
+    <string name="my_name">Sofyan Gio Verdiansyah</string>
+    <string name="tv_description">Deskripsi</string>
+    <string name="detail">Detail</string>
+    <string name="about_me">About Me</string>
+</resources>
